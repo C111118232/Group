@@ -34,4 +34,7 @@
 
 ## 圖卡樣式
 
+<img src="images/圖卡正面.png" alt="示例圖片" width="300" height="400"><img src="images/圖卡背面.png" alt="示例圖片" width="300" height="400">
+
+
 
